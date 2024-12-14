@@ -16,7 +16,7 @@ Verify user can successfully register and create an account.
 
 ### Test_004: Search for Publication/Article (e.g., “IEEE 802 Wireless Systems”)
 **Test Description:**  
-Verify user can search for publications/ articles/ etc
+Verify user can search for publications/ articles/ etc.
 
 
 ### Test_006: Download Free Publication/Article in PDF Format
