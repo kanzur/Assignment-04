@@ -16,3 +16,9 @@ Verify user can search for publications/ articles/ etc
 ### Test_006: Download Free Publication/Article in PDF Format
 **Test Description:**  
 Download the “Front Matter” publication in pdf format which is displayed in search results of “ieee 802 wireless systems”.
+
+##
+This project demonstrates how to effectively automate functional test cases with TypeScript and Playwright, simplifying the testing process for improved precision and effectiveness along with the key aspects in the Wiley Online Library. 
+
+I am excited to improve my automation testing abilities and am appreciative that I was allowed to try the Wiley QE Internship Training Program.
+
