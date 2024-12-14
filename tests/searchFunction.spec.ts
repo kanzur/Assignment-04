@@ -1,4 +1,5 @@
 //Test_ 004 Search for publication/ article/ etc “ieee 802 wireless systems
+//Used Try-catch to figure out exactly where was the exact error is been raised.
 
 import { test, expect } from '@playwright/test';
 
@@ -40,6 +41,9 @@ test('Verify user can search for publications/articles/etc.', async ({ page }) =
 
 
 
+
+    //The below code won't work due to a cloudflare verification.
+    //The code is assumed and wrote, if there is no cloudflare human verification.
 
 
     //section 02

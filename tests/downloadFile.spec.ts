@@ -1,4 +1,5 @@
 //Test_006 Download free publication/ article in pdf format
+//Used Try-catch to figure out exactly where was the exact error is been raised.
 
 import { test, expect } from '@playwright/test';
 import * as fs from 'fs';
@@ -38,6 +39,9 @@ test('Download free publication/article in pdf format', async ({ page }) => {
     }
 
 
+
+    //The below code won't work due to a cloudflare verification.
+    //The code is assumed and wrote, if there is no cloudflare human verification.
 
 
     //section 02

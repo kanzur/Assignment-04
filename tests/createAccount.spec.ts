@@ -1,4 +1,5 @@
 //Test_001 Account creation (register) with valid credentials
+//Used Try-catch to figure out exactly where was the exact error is been raised.
 
 import { test, expect } from '@playwright/test';
 
@@ -37,6 +38,8 @@ test('Verify user can successfully register and create an account', async ({ pag
 
 
 
+    //The below code won't work due to a cloudflare verification.
+    //The code is assumed and wrote, if there is no cloudflare human verification.
 
 
     //section 02
