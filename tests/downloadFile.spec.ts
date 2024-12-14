@@ -1,3 +1,5 @@
+//Test_006 Download free publication/ article in pdf format
+
 import { test, expect } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
