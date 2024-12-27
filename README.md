@@ -2,7 +2,7 @@
 
 This repository contains the automation scripts for Assessment 2 of the Wiley QE Internship Training Program. In this assessment, I automated three functional test cases identified in Assessment 1 using Playwright. The goal was to demonstrate automation skills by converting manual test scenarios into automated scripts, enhancing efficiency and accuracy in the testing process. The following are the automated test cases and their descriptions.
 
-Wesite: https://onlinelibrary.wiley.com/ 
+Website: https://onlinelibrary.wiley.com/ 
 
 Technologies Used:
   - Playwright: For automating browser interactions and functional testing.
