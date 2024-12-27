@@ -8,7 +8,7 @@ Technologies Used:
   - Playwright: For automating browser interactions and functional testing.
   - TypeScript: For writing the automation scripts.
 
-## Automated Test Cases:
+## Automated Test Cases
 
 ### Test_001: Account Creation (Register) with Valid Credentials
 **Test Description:**  
